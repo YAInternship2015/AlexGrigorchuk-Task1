@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>namePlaces</key>
+		<string>Гора Рорайма, Венесуэла</string>
+		<key>imageName</key>
+		<string>Mount Roraima, Venezuela.jpg</string>
+	</dict>
+	<dict>
+		<key>namePlaces</key>
+		<string>Лукка, Тоскана, Италия</string>
+		<key>imageName</key>
+		<string>Lucca , Tuscany,  Italy.jpg</string>
+	</dict>
+	<dict>
+		<key>namePlaces</key>
+		<string>Алентежу, Португалия</string>
+		<key>imageName</key>
+		<string>Alentejo, Portugal.jpg</string>
+	</dict>
+	<dict>
+		<key>namePlaces</key>
+		<string>Холмы, Филиппины</string>
+		<key>imageName</key>
+		<string>Chocolate Hills in the Philippines.jpg</string>
+	</dict>
+	<dict>
+		<key>namePlaces</key>
+		<string>Остров Ваадху, Мальдивы</string>
+		<key>imageName</key>
+		<string>Vaadhu Island, Maldives.jpg</string>
+	</dict>
+	<dict>
+		<key>namePlaces</key>
+		<string>Солончак Салар-де-Уюни</string>
+		<key>imageName</key>
+		<string>Saline, Salar de Uyuni.jpg</string>
+	</dict>
+	<dict>
+		<key>namePlaces</key>
+		<string>Турция, Памуккале</string>
+		<key>imageName</key>
+		<string>Turkey, springs of Pamukkale.jpg</string>
+	</dict>
+	<dict>
+		<key>namePlaces</key>
+		<string>Рисовые террасы, Китай</string>
+		<key>imageName</key>
+		<string>Rice Terraces, China.jpg</string>
+	</dict>
+	<dict>
+		<key>namePlaces</key>
+		<string>Гифу, Япония</string>
+		<key>imageName</key>
+		<string>Gifu, Japan.jpg</string>
+	</dict>
+	<dict>
+		<key>namePlaces</key>
+		<string>Олд Хед, Ирландия</string>
+		<key>imageName</key>
+		<string>Old Head of Kinsale, Ireland.jpg</string>
+	</dict>
+</array>
+</plist>

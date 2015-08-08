@@ -1,0 +1,470 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 46;
+	objects = {
+
+/* Begin PBXBuildFile section */
+		E121CDBD1B74E31B0035B782 /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = E121CDBC1B74E31B0035B782 /* main.m */; };
+		E121CDC01B74E31B0035B782 /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = E121CDBF1B74E31B0035B782 /* AppDelegate.m */; };
+		E121CDC81B74E31B0035B782 /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = E121CDC71B74E31B0035B782 /* Images.xcassets */; };
+		E121CDD71B74E31B0035B782 /* TenMostBeautifulPlacesTests.m in Sources */ = {isa = PBXBuildFile; fileRef = E121CDD61B74E31B0035B782 /* TenMostBeautifulPlacesTests.m */; };
+		E121CDE11B74E37D0035B782 /* Image-name.plist in Resources */ = {isa = PBXBuildFile; fileRef = E121CDE01B74E37D0035B782 /* Image-name.plist */; };
+		E121CDEA1B74E4330035B782 /* MBPTableViewCell.m in Sources */ = {isa = PBXBuildFile; fileRef = E121CDE91B74E4330035B782 /* MBPTableViewCell.m */; };
+		E121CDED1B74E4440035B782 /* MBPTableViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = E121CDEC1B74E4440035B782 /* MBPTableViewController.m */; };
+		E121CDFB1B74EFA20035B782 /* Alentejo, Portugal.jpg in Resources */ = {isa = PBXBuildFile; fileRef = E121CDF11B74EFA20035B782 /* Alentejo, Portugal.jpg */; };
+		E121CDFC1B74EFA20035B782 /* Gifu, Japan.jpg in Resources */ = {isa = PBXBuildFile; fileRef = E121CDF21B74EFA20035B782 /* Gifu, Japan.jpg */; };
+		E121CDFD1B74EFA20035B782 /* Lucca , Tuscany,  Italy.jpg in Resources */ = {isa = PBXBuildFile; fileRef = E121CDF31B74EFA20035B782 /* Lucca , Tuscany,  Italy.jpg */; };
+		E121CDFF1B74EFA20035B782 /* Mount Roraima, Venezuela.jpg in Resources */ = {isa = PBXBuildFile; fileRef = E121CDF51B74EFA20035B782 /* Mount Roraima, Venezuela.jpg */; };
+		E121CE001B74EFA20035B782 /* Old Head of Kinsale, Ireland.jpg in Resources */ = {isa = PBXBuildFile; fileRef = E121CDF61B74EFA20035B782 /* Old Head of Kinsale, Ireland.jpg */; };
+		E121CE011B74EFA20035B782 /* Rice Terraces, China.jpg in Resources */ = {isa = PBXBuildFile; fileRef = E121CDF71B74EFA20035B782 /* Rice Terraces, China.jpg */; };
+		E121CE021B74EFA20035B782 /* Saline, Salar de Uyuni.jpg in Resources */ = {isa = PBXBuildFile; fileRef = E121CDF81B74EFA20035B782 /* Saline, Salar de Uyuni.jpg */; };
+		E121CE031B74EFA20035B782 /* Turkey, springs of Pamukkale.jpg in Resources */ = {isa = PBXBuildFile; fileRef = E121CDF91B74EFA20035B782 /* Turkey, springs of Pamukkale.jpg */; };
+		E121CE041B74EFA20035B782 /* Vaadhu Island, Maldives.jpg in Resources */ = {isa = PBXBuildFile; fileRef = E121CDFA1B74EFA20035B782 /* Vaadhu Island, Maldives.jpg */; };
+		E121CE071B74EFF50035B782 /* LaunchScreen.xib in Resources */ = {isa = PBXBuildFile; fileRef = E121CE051B74EFF50035B782 /* LaunchScreen.xib */; };
+		E121CE081B74EFF50035B782 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = E121CE061B74EFF50035B782 /* Main.storyboard */; };
+		E121CE0C1B74F2B40035B782 /* Chocolate Hills in the Philippines.jpg in Resources */ = {isa = PBXBuildFile; fileRef = E121CE0B1B74F2B40035B782 /* Chocolate Hills in the Philippines.jpg */; };
+		E121CE0E1B74FAAB0035B782 /* Launch Screen.jpg in Resources */ = {isa = PBXBuildFile; fileRef = E121CE0D1B74FAAB0035B782 /* Launch Screen.jpg */; };
+/* End PBXBuildFile section */
+
+/* Begin PBXContainerItemProxy section */
+		E121CDD11B74E31B0035B782 /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = E121CDAF1B74E31B0035B782 /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = E121CDB61B74E31B0035B782;
+			remoteInfo = TenMostBeautifulPlaces;
+		};
+/* End PBXContainerItemProxy section */
+
+/* Begin PBXFileReference section */
+		E121CDB71B74E31B0035B782 /* TenMostBeautifulPlaces.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = TenMostBeautifulPlaces.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		E121CDBB1B74E31B0035B782 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		E121CDBC1B74E31B0035B782 /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
+		E121CDBE1B74E31B0035B782 /* AppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = AppDelegate.h; sourceTree = "<group>"; };
+		E121CDBF1B74E31B0035B782 /* AppDelegate.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = AppDelegate.m; sourceTree = "<group>"; };
+		E121CDC71B74E31B0035B782 /* Images.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Images.xcassets; sourceTree = "<group>"; };
+		E121CDD01B74E31B0035B782 /* TenMostBeautifulPlacesTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = TenMostBeautifulPlacesTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
+		E121CDD51B74E31B0035B782 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		E121CDD61B74E31B0035B782 /* TenMostBeautifulPlacesTests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = TenMostBeautifulPlacesTests.m; sourceTree = "<group>"; };
+		E121CDE01B74E37D0035B782 /* Image-name.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = "Image-name.plist"; sourceTree = "<group>"; };
+		E121CDE81B74E4330035B782 /* MBPTableViewCell.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = MBPTableViewCell.h; sourceTree = "<group>"; };
+		E121CDE91B74E4330035B782 /* MBPTableViewCell.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = MBPTableViewCell.m; sourceTree = "<group>"; };
+		E121CDEB1B74E4440035B782 /* MBPTableViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = MBPTableViewController.h; sourceTree = "<group>"; };
+		E121CDEC1B74E4440035B782 /* MBPTableViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = MBPTableViewController.m; sourceTree = "<group>"; };
+		E121CDF11B74EFA20035B782 /* Alentejo, Portugal.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "Alentejo, Portugal.jpg"; sourceTree = "<group>"; };
+		E121CDF21B74EFA20035B782 /* Gifu, Japan.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "Gifu, Japan.jpg"; sourceTree = "<group>"; };
+		E121CDF31B74EFA20035B782 /* Lucca , Tuscany,  Italy.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "Lucca , Tuscany,  Italy.jpg"; sourceTree = "<group>"; };
+		E121CDF51B74EFA20035B782 /* Mount Roraima, Venezuela.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "Mount Roraima, Venezuela.jpg"; sourceTree = "<group>"; };
+		E121CDF61B74EFA20035B782 /* Old Head of Kinsale, Ireland.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "Old Head of Kinsale, Ireland.jpg"; sourceTree = "<group>"; };
+		E121CDF71B74EFA20035B782 /* Rice Terraces, China.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "Rice Terraces, China.jpg"; sourceTree = "<group>"; };
+		E121CDF81B74EFA20035B782 /* Saline, Salar de Uyuni.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "Saline, Salar de Uyuni.jpg"; sourceTree = "<group>"; };
+		E121CDF91B74EFA20035B782 /* Turkey, springs of Pamukkale.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "Turkey, springs of Pamukkale.jpg"; sourceTree = "<group>"; };
+		E121CDFA1B74EFA20035B782 /* Vaadhu Island, Maldives.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "Vaadhu Island, Maldives.jpg"; sourceTree = "<group>"; };
+		E121CE051B74EFF50035B782 /* LaunchScreen.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; path = LaunchScreen.xib; sourceTree = "<group>"; };
+		E121CE061B74EFF50035B782 /* Main.storyboard */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.storyboard; path = Main.storyboard; sourceTree = "<group>"; };
+		E121CE0B1B74F2B40035B782 /* Chocolate Hills in the Philippines.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "Chocolate Hills in the Philippines.jpg"; sourceTree = "<group>"; };
+		E121CE0D1B74FAAB0035B782 /* Launch Screen.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "Launch Screen.jpg"; sourceTree = "<group>"; };
+/* End PBXFileReference section */
+
+/* Begin PBXFrameworksBuildPhase section */
+		E121CDB41B74E31B0035B782 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		E121CDCD1B74E31B0035B782 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXFrameworksBuildPhase section */
+
+/* Begin PBXGroup section */
+		E121CDAE1B74E31B0035B782 = {
+			isa = PBXGroup;
+			children = (
+				E121CDB91B74E31B0035B782 /* TenMostBeautifulPlaces */,
+				E121CDD31B74E31B0035B782 /* TenMostBeautifulPlacesTests */,
+				E121CDB81B74E31B0035B782 /* Products */,
+			);
+			sourceTree = "<group>";
+		};
+		E121CDB81B74E31B0035B782 /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				E121CDB71B74E31B0035B782 /* TenMostBeautifulPlaces.app */,
+				E121CDD01B74E31B0035B782 /* TenMostBeautifulPlacesTests.xctest */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+		E121CDB91B74E31B0035B782 /* TenMostBeautifulPlaces */ = {
+			isa = PBXGroup;
+			children = (
+				E121CDBE1B74E31B0035B782 /* AppDelegate.h */,
+				E121CDBF1B74E31B0035B782 /* AppDelegate.m */,
+				E121CDE81B74E4330035B782 /* MBPTableViewCell.h */,
+				E121CDE91B74E4330035B782 /* MBPTableViewCell.m */,
+				E121CDEB1B74E4440035B782 /* MBPTableViewController.h */,
+				E121CDEC1B74E4440035B782 /* MBPTableViewController.m */,
+				E121CDC71B74E31B0035B782 /* Images.xcassets */,
+				E121CE061B74EFF50035B782 /* Main.storyboard */,
+				E121CE051B74EFF50035B782 /* LaunchScreen.xib */,
+				E121CDE01B74E37D0035B782 /* Image-name.plist */,
+				E121CDF01B74EFA20035B782 /* Images places */,
+				E121CDBA1B74E31B0035B782 /* Supporting Files */,
+			);
+			path = TenMostBeautifulPlaces;
+			sourceTree = "<group>";
+		};
+		E121CDBA1B74E31B0035B782 /* Supporting Files */ = {
+			isa = PBXGroup;
+			children = (
+				E121CDBB1B74E31B0035B782 /* Info.plist */,
+				E121CDBC1B74E31B0035B782 /* main.m */,
+			);
+			name = "Supporting Files";
+			sourceTree = "<group>";
+		};
+		E121CDD31B74E31B0035B782 /* TenMostBeautifulPlacesTests */ = {
+			isa = PBXGroup;
+			children = (
+				E121CDD61B74E31B0035B782 /* TenMostBeautifulPlacesTests.m */,
+				E121CDD41B74E31B0035B782 /* Supporting Files */,
+			);
+			path = TenMostBeautifulPlacesTests;
+			sourceTree = "<group>";
+		};
+		E121CDD41B74E31B0035B782 /* Supporting Files */ = {
+			isa = PBXGroup;
+			children = (
+				E121CDD51B74E31B0035B782 /* Info.plist */,
+			);
+			name = "Supporting Files";
+			sourceTree = "<group>";
+		};
+		E121CDF01B74EFA20035B782 /* Images places */ = {
+			isa = PBXGroup;
+			children = (
+				E121CE0D1B74FAAB0035B782 /* Launch Screen.jpg */,
+				E121CE0B1B74F2B40035B782 /* Chocolate Hills in the Philippines.jpg */,
+				E121CDF11B74EFA20035B782 /* Alentejo, Portugal.jpg */,
+				E121CDF21B74EFA20035B782 /* Gifu, Japan.jpg */,
+				E121CDF31B74EFA20035B782 /* Lucca , Tuscany,  Italy.jpg */,
+				E121CDF51B74EFA20035B782 /* Mount Roraima, Venezuela.jpg */,
+				E121CDF61B74EFA20035B782 /* Old Head of Kinsale, Ireland.jpg */,
+				E121CDF71B74EFA20035B782 /* Rice Terraces, China.jpg */,
+				E121CDF81B74EFA20035B782 /* Saline, Salar de Uyuni.jpg */,
+				E121CDF91B74EFA20035B782 /* Turkey, springs of Pamukkale.jpg */,
+				E121CDFA1B74EFA20035B782 /* Vaadhu Island, Maldives.jpg */,
+			);
+			path = "Images places";
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXNativeTarget section */
+		E121CDB61B74E31B0035B782 /* TenMostBeautifulPlaces */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = E121CDDA1B74E31B0035B782 /* Build configuration list for PBXNativeTarget "TenMostBeautifulPlaces" */;
+			buildPhases = (
+				E121CDB31B74E31B0035B782 /* Sources */,
+				E121CDB41B74E31B0035B782 /* Frameworks */,
+				E121CDB51B74E31B0035B782 /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = TenMostBeautifulPlaces;
+			productName = TenMostBeautifulPlaces;
+			productReference = E121CDB71B74E31B0035B782 /* TenMostBeautifulPlaces.app */;
+			productType = "com.apple.product-type.application";
+		};
+		E121CDCF1B74E31B0035B782 /* TenMostBeautifulPlacesTests */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = E121CDDD1B74E31B0035B782 /* Build configuration list for PBXNativeTarget "TenMostBeautifulPlacesTests" */;
+			buildPhases = (
+				E121CDCC1B74E31B0035B782 /* Sources */,
+				E121CDCD1B74E31B0035B782 /* Frameworks */,
+				E121CDCE1B74E31B0035B782 /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+				E121CDD21B74E31B0035B782 /* PBXTargetDependency */,
+			);
+			name = TenMostBeautifulPlacesTests;
+			productName = TenMostBeautifulPlacesTests;
+			productReference = E121CDD01B74E31B0035B782 /* TenMostBeautifulPlacesTests.xctest */;
+			productType = "com.apple.product-type.bundle.unit-test";
+		};
+/* End PBXNativeTarget section */
+
+/* Begin PBXProject section */
+		E121CDAF1B74E31B0035B782 /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				LastUpgradeCheck = 0620;
+				ORGANIZATIONNAME = Alexander.Grig;
+				TargetAttributes = {
+					E121CDB61B74E31B0035B782 = {
+						CreatedOnToolsVersion = 6.2;
+					};
+					E121CDCF1B74E31B0035B782 = {
+						CreatedOnToolsVersion = 6.2;
+						TestTargetID = E121CDB61B74E31B0035B782;
+					};
+				};
+			};
+			buildConfigurationList = E121CDB21B74E31B0035B782 /* Build configuration list for PBXProject "TenMostBeautifulPlaces" */;
+			compatibilityVersion = "Xcode 3.2";
+			developmentRegion = English;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+				Base,
+			);
+			mainGroup = E121CDAE1B74E31B0035B782;
+			productRefGroup = E121CDB81B74E31B0035B782 /* Products */;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+				E121CDB61B74E31B0035B782 /* TenMostBeautifulPlaces */,
+				E121CDCF1B74E31B0035B782 /* TenMostBeautifulPlacesTests */,
+			);
+		};
+/* End PBXProject section */
+
+/* Begin PBXResourcesBuildPhase section */
+		E121CDB51B74E31B0035B782 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				E121CE031B74EFA20035B782 /* Turkey, springs of Pamukkale.jpg in Resources */,
+				E121CDFB1B74EFA20035B782 /* Alentejo, Portugal.jpg in Resources */,
+				E121CDFC1B74EFA20035B782 /* Gifu, Japan.jpg in Resources */,
+				E121CE001B74EFA20035B782 /* Old Head of Kinsale, Ireland.jpg in Resources */,
+				E121CE081B74EFF50035B782 /* Main.storyboard in Resources */,
+				E121CDFF1B74EFA20035B782 /* Mount Roraima, Venezuela.jpg in Resources */,
+				E121CDFD1B74EFA20035B782 /* Lucca , Tuscany,  Italy.jpg in Resources */,
+				E121CDC81B74E31B0035B782 /* Images.xcassets in Resources */,
+				E121CE0E1B74FAAB0035B782 /* Launch Screen.jpg in Resources */,
+				E121CE0C1B74F2B40035B782 /* Chocolate Hills in the Philippines.jpg in Resources */,
+				E121CE021B74EFA20035B782 /* Saline, Salar de Uyuni.jpg in Resources */,
+				E121CE071B74EFF50035B782 /* LaunchScreen.xib in Resources */,
+				E121CE011B74EFA20035B782 /* Rice Terraces, China.jpg in Resources */,
+				E121CE041B74EFA20035B782 /* Vaadhu Island, Maldives.jpg in Resources */,
+				E121CDE11B74E37D0035B782 /* Image-name.plist in Resources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		E121CDCE1B74E31B0035B782 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXResourcesBuildPhase section */
+
+/* Begin PBXSourcesBuildPhase section */
+		E121CDB31B74E31B0035B782 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				E121CDC01B74E31B0035B782 /* AppDelegate.m in Sources */,
+				E121CDED1B74E4440035B782 /* MBPTableViewController.m in Sources */,
+				E121CDBD1B74E31B0035B782 /* main.m in Sources */,
+				E121CDEA1B74E4330035B782 /* MBPTableViewCell.m in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		E121CDCC1B74E31B0035B782 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				E121CDD71B74E31B0035B782 /* TenMostBeautifulPlacesTests.m in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXSourcesBuildPhase section */
+
+/* Begin PBXTargetDependency section */
+		E121CDD21B74E31B0035B782 /* PBXTargetDependency */ = {
+			isa = PBXTargetDependency;
+			target = E121CDB61B74E31B0035B782 /* TenMostBeautifulPlaces */;
+			targetProxy = E121CDD11B74E31B0035B782 /* PBXContainerItemProxy */;
+		};
+/* End PBXTargetDependency section */
+
+/* Begin XCBuildConfiguration section */
+		E121CDD81B74E31B0035B782 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++0x";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				COPY_PHASE_STRIP = NO;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu99;
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"DEBUG=1",
+					"$(inherited)",
+				);
+				GCC_SYMBOLS_PRIVATE_EXTERN = NO;
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 8.2;
+				MTL_ENABLE_DEBUG_INFO = YES;
+				ONLY_ACTIVE_ARCH = YES;
+				SDKROOT = iphoneos;
+			};
+			name = Debug;
+		};
+		E121CDD91B74E31B0035B782 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++0x";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				COPY_PHASE_STRIP = NO;
+				ENABLE_NS_ASSERTIONS = NO;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu99;
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 8.2;
+				MTL_ENABLE_DEBUG_INFO = NO;
+				SDKROOT = iphoneos;
+				VALIDATE_PRODUCT = YES;
+			};
+			name = Release;
+		};
+		E121CDDB1B74E31B0035B782 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				INFOPLIST_FILE = TenMostBeautifulPlaces/Info.plist;
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+			};
+			name = Debug;
+		};
+		E121CDDC1B74E31B0035B782 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				INFOPLIST_FILE = TenMostBeautifulPlaces/Info.plist;
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+			};
+			name = Release;
+		};
+		E121CDDE1B74E31B0035B782 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				BUNDLE_LOADER = "$(TEST_HOST)";
+				FRAMEWORK_SEARCH_PATHS = (
+					"$(SDKROOT)/Developer/Library/Frameworks",
+					"$(inherited)",
+				);
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"DEBUG=1",
+					"$(inherited)",
+				);
+				INFOPLIST_FILE = TenMostBeautifulPlacesTests/Info.plist;
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/TenMostBeautifulPlaces.app/TenMostBeautifulPlaces";
+			};
+			name = Debug;
+		};
+		E121CDDF1B74E31B0035B782 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				BUNDLE_LOADER = "$(TEST_HOST)";
+				FRAMEWORK_SEARCH_PATHS = (
+					"$(SDKROOT)/Developer/Library/Frameworks",
+					"$(inherited)",
+				);
+				INFOPLIST_FILE = TenMostBeautifulPlacesTests/Info.plist;
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/TenMostBeautifulPlaces.app/TenMostBeautifulPlaces";
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		E121CDB21B74E31B0035B782 /* Build configuration list for PBXProject "TenMostBeautifulPlaces" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				E121CDD81B74E31B0035B782 /* Debug */,
+				E121CDD91B74E31B0035B782 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		E121CDDA1B74E31B0035B782 /* Build configuration list for PBXNativeTarget "TenMostBeautifulPlaces" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				E121CDDB1B74E31B0035B782 /* Debug */,
+				E121CDDC1B74E31B0035B782 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+		};
+		E121CDDD1B74E31B0035B782 /* Build configuration list for PBXNativeTarget "TenMostBeautifulPlacesTests" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				E121CDDE1B74E31B0035B782 /* Debug */,
+				E121CDDF1B74E31B0035B782 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = E121CDAF1B74E31B0035B782 /* Project object */;
+}
